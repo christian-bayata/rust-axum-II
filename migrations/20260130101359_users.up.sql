@@ -15,4 +15,4 @@ CREATE TABLE "users" (
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
 );
 
-CREATE INDEX users_email_idx ON users (email);
+CREATE INDEX users_email_idx ON users (email);git branch -M main
