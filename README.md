@@ -1,6 +1,6 @@
 # Terminal 1 - to run the server.
 
-cargo watch -q -c -w src/ -w .cargo/ -x run
+cargo watch -q -c -w src/ -x run
 
 # Terminal 2 - to run the quick_dev.
 
